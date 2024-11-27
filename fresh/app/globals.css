@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background: #2c2c2c;
+    color: #f0f0f0; 
+    line-height: 1.6; 
+}
+
+.title {
+    text-align: center;
+    margin-top: 150px;
+    color: #ffa726;
+}
+
+.title-sub {
+    text-align: center;
+}
+
+.link {
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: #f06292; 
+    border: 2px solid #f06292;
+    padding: 8px 16px;
+    border-radius: 4px;
+}
+
+.link:hover {
+    background: #f06292;
+    color: #2c2c2c;
+}
