@@ -30,3 +30,22 @@ body {
     background: #f06292;
     color: #2c2c2c;
 }
+
+.food {
+    margin: 20px auto;
+    width: 200px;
+    background: white;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.navbar {
+    background: white;
+    padding: 20px;
+}
+
+.navbar a {
+    margin-right: 10px;
+    text-decoration: none;
+}
