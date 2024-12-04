@@ -1,7 +1,17 @@
 export default function Cart() {
     return (
-        <dev>
-            <h2 className="title">장바구니입니다.</h2>
-        </dev>
+      <div>
+        <h4 className="title">Cart</h4>
+        <div className="cart-item">
+          <p>상품명</p>
+          <p>$40</p>
+          <p>1개</p>
+        </div>
+        <div className="cart-item">
+          <p>상품명</p>
+          <p>$40</p>
+          <p>1개</p>
+        </div>
+      </div>
     )
-}
+  } 
